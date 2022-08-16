@@ -18,4 +18,5 @@
 <code><img height="30" src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://icon-icons.com/icon/file-type-quasar/130213" /></code>
+<code><img height="30" src="https://cdn.quasar.dev/logo/512/quasar-logo.png"></code>
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgP0CTj1r2v-ciKgWbWYwJfTYxMHmZKXE_olL2108jRw&s"></code>
