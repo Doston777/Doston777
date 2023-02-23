@@ -21,3 +21,4 @@
 <code><img height="30" src="https://cdn.quasar.dev/logo/512/quasar-logo.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgP0CTj1r2v-ciKgWbWYwJfTYxMHmZKXE_olL2108jRw&s"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333"></code>
+<code><img height=30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FNuxt%2F&psig=AOvVaw34KPzTZZNdDMS0ORuwSNac&ust=1677254121212000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKjO99KArP0CFQAAAAAdAAAAABAI"></code>
